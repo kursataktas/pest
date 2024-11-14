@@ -5,6 +5,7 @@
         <a href="https://packagist.org/packages/pestphp/pest"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/pestphp/pest"></a>
         <a href="https://packagist.org/packages/pestphp/pest"><img alt="Latest Version" src="https://img.shields.io/packagist/v/pestphp/pest"></a>
         <a href="https://packagist.org/packages/pestphp/pest"><img alt="License" src="https://img.shields.io/packagist/l/pestphp/pest"></a>
+        <a href="https://gurubase.io/g/pest"><img alt="Gurubase" src="https://img.shields.io/badge/Gurubase-Ask%20Pest%20Guru-006BFF"></a>
     </p>
 </p>
 
